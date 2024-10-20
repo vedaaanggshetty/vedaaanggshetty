@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Vedang
+- 👋 Hi, <b>I’m Vedang<b>
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 <!---
