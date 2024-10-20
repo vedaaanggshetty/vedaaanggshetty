@@ -1,4 +1,8 @@
 - 👋 Hi, <b>I’m Vedang<b>
+- <ul>
+     <li><i class="fab fa-linkedin">LinkedIn</i>
+ </li>
+</ul>
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 <!---
