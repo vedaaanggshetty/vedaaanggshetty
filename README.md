@@ -12,7 +12,6 @@ I'm passionate about web development.
   </a>
 
     <h4 style="margin: 0;">Gmail</h4>
-
   <a href="mailto:vedangshetty21@gmail.com" style="display: flex; align-items: center;">
     <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail" style="margin-right: 5px;"/>
   </a>
