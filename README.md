@@ -4,15 +4,15 @@ I'm passionate about web development.
 
 <h3>🌐 Connect with me </h3>
 
-<div style="display: flex; align-items: center; gap: 10px;">
-  <a href="https://www.linkedin.com/in/shetty-vedanga-shivaram-95880828b/">
+<div style="display: flex; align-items: center;">
+  <a href="https://www.linkedin.com/in/shetty-vedanga-shivaram-95880828b/" style="display: flex; align-items: center; margin-right: 20px;">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" style="margin-right: 5px;"/>
     <h4 style="margin: 0;">LinkedIn</h4>
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" style="vertical-align: middle;"/> 
   </a>
 
-  <a href="mailto:vedangshetty21@gmail.com">
+  <a href="mailto:vedangshetty21@gmail.com" style="display: flex; align-items: center;">
+    <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail" style="margin-right: 5px;"/>
     <h4 style="margin: 0;">Gmail</h4>
-    <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail" style="vertical-align: middle;"/> 
   </a>
 </div>
 
