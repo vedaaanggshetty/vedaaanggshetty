@@ -1,5 +1,5 @@
 <h3>👋 Hi, I’m Vedang! </h3>
-👨‍💻 Student at NMAMIT | Aspiring Web Developer <br>
+👨‍💻 Student at NMAMIT | Aspiring Web Developer <br><br>
 
 🌟 I'm passionate about technology and web development. <br>
 
