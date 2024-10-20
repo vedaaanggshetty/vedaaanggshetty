@@ -4,17 +4,15 @@ I'm passionate about web development.
 
 <h3>🌐 Connect with me </h3>
 
-<div style="display: inline-block; margin-right: 20px;">
-  <a href="https://www.linkedin.com/in/shetty-vedanga-shivaram-95880828b/" style="text-decoration: none; color: inherit;">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" style="vertical-align: middle; margin-right: 5px;"/>
-    <span>LinkedIn</span>
+<div style="display: flex; align-items: center;">
+  <a href="https://www.linkedin.com/in/shetty-vedanga-shivaram-95880828b/" style="display: flex; align-items: center; margin-right: 20px;">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" style="margin-right: 5px;"/>
+    <h4 style="margin: 0;">LinkedIn</h4>
   </a>
-</div>
 
-<div style="display: inline-block;">
-  <a href="mailto:vedangshetty21@gmail.com" style="text-decoration: none; color: inherit;">
-    <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail" style="vertical-align: middle; margin-right: 5px;"/>
-    <span>Gmail</span>
+  <a href="mailto:vedangshetty21@gmail.com" style="display: flex; align-items: center;">
+    <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail" style="margin-right: 5px;"/>
+    <h4 style="margin: 0;">Gmail</h4>
   </a>
 </div>
 
