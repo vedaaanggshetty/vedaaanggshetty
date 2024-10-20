@@ -2,7 +2,7 @@
 
 I'm passionate about web development.
 
-🌐 Connect with me
+<h3>🌐 Connect with me <h3>
 <a href="https://www.linkedin.com/in/shetty-vedanga-shivaram-95880828b/">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" style="vertical-align: middle;"/> LinkedIn
 </a>
