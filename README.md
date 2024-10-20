@@ -22,8 +22,8 @@
   </a>
 </div>
 
-## 🛠️ My Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,css,discord,github,py,r,react,vite)](https://skillicons.dev)
+## 🛠️ Tools I have Used
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,css,discord,github,py,r,react,vite,webflow,wordpress,tailwind,java)](https://skillicons.dev)
 
 <!---
 vedaaanggshetty/vedaaanggshetty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
