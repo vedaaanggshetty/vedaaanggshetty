@@ -1,9 +1,9 @@
 # 👋 Hi, I’m Vedang!
 
-Welcome to my GitHub profile! I'm passionate about web development and excited to share my projects with you.
+I'm passionate about web development.
 
 ## 🌐 Connect with me
-[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/shetty-vedanga-shivaram-95880828b/) LinkedIn
+[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/shetty-vedanga-shivaram-95880828b/) <h4><b>LinkedIn<b> <h4>
 
 ## 🛠️ My Skills
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
